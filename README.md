@@ -49,6 +49,4 @@ The following regression models were trained to predict IMDb ratings:
 
 Linear Regression
 
-Random Forest Regressor
-
 
