@@ -1,4 +1,4 @@
-**CODSOFT Internship** – Machine Learning Projects
+**CODSOFT Internship** – === Machine Learning Projects ===
 As part of my internship at CODSOFT, I completed three machine learning projects focused on classification and regression problems using real-world datasets. These tasks helped me develop practical skills in data preprocessing, model building, evaluation, and visualization using Python and essential ML libraries.
 
 Task 1: Titanic Survival Prediction
