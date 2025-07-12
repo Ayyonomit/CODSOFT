@@ -16,7 +16,7 @@ The code is built to run in **Google Colab**, includes **error handling**, and a
 
 ---
 
-## 🧠 What We Did – Step-by-Step Explanation
+## 🧠 What I Did – Step-by-Step Explanation
 
 ### 1. 📂 Data Loading
 
